@@ -11,5 +11,9 @@ h1 {
 
 .important {
     color: palevioletred;
-    font-style: oblique;
+    font-style: bold;
+}
+
+.aboutme {
+    font-family: 'Times New Roman', Times, serif;
 }
