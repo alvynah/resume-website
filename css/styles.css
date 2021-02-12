@@ -1,5 +1,7 @@
 body {
     background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 h1 {
@@ -16,4 +18,9 @@ h1 {
 
 .aboutme {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.column {
+    width: 500px;
+    float: left;
 }
