@@ -1,5 +1,5 @@
 body {
-    background-color: burlywood;
+    background-color: white;
 }
 
 h1 {
@@ -7,4 +7,9 @@ h1 {
     font-family: fantasy;
     font-size: 17px;
     text-align: center;
+}
+
+.important {
+    color: palevioletred;
+    font-style: oblique;
 }
